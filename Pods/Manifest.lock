@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Amplitude-iOS (4.0.4)
+  - DRPLoadingSpinner (1.3.1):
+    - DRPLoadingSpinner/core (= 1.3.1)
+  - DRPLoadingSpinner/core (1.3.1)
+  - Realm (3.0.2):
+    - Realm/Headers (= 3.0.2)
+  - Realm/Headers (3.0.2)
+  - RealmSwift (3.0.2):
+    - Realm (= 3.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Amplitude-iOS (~> 4.0.4)
+  - DRPLoadingSpinner (~> 1.3)
+  - RealmSwift (~> 3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Amplitude-iOS: 2ad4d7270c99186236c1272a3a9425463b1ae1a7
+  DRPLoadingSpinner: 725e530bf4ebe2cc351b1fbc94d24fe8ac3300fd
+  Realm: 6f23fd1f178a09342eac21bfa7c2bf4312a7a180
+  RealmSwift: 695393add1b8f9d5fa75dd16e6355cf3935f71e2
+
+PODFILE CHECKSUM: e1ee8d753c6a3d0fd699cf73470ecaf087134491
+
+COCOAPODS: 1.3.1
